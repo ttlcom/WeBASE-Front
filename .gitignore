@@ -46,6 +46,7 @@ v0.*.*.js
 v0.*.*.js.gz
 /output/
 /conf/
+/conf/
 /liquid/
 
 
